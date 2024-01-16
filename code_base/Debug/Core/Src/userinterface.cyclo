@@ -1,0 +1,3 @@
+../Core/Src/userinterface.c:18:6:ReadModeSwitch	1
+../Core/Src/userinterface.c:40:6:UIStatus	1
+../Core/Src/userinterface.c:47:6:UIMessage	1
